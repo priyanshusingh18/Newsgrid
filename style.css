@@ -289,11 +289,11 @@ h6 {
 }
 
 #home-articles .articles-container > *:last-child {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 1rem;
-  grid-column: 2/ span 2;
-  align-items: center;
+/*   display: grid; */
+/*   grid-template-columns: repeat(2, 1fr); */
+/*   grid-gap: 1rem; */
+/*   grid-column: 2/ span 2; */
+/*   align-items: center; */
 }
 
 
